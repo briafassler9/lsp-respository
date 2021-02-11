@@ -37,7 +37,7 @@ public class Combination {
 	        temp_combinations.add(temp_array);
 	        temp_array = new ArrayList<>();
 	      }
-	    }
+	    }  
 	    
 	    // loops through sorted array backwards
 	    for (int i = sorted_array.length - 1; i >= 0; i--) {
